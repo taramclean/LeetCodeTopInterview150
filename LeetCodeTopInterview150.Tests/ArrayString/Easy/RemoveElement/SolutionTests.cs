@@ -2,7 +2,7 @@ using LeetCodeTopInterview150.ArrayString.Easy.RemoveElement;
 
 namespace LeetCodeTopInterview150.Tests.ArrayString.Easy.RemoveElement;
 
-public class RemoveElementTests
+public class SolutionTests
 {
     [Fact]
     public void Case1()

@@ -2,13 +2,13 @@ using LeetCodeTopInterview150.ArrayString.Easy.MajorityElement;
 
 namespace LeetCodeTopInterview150.Tests.ArrayString.Easy.MajorityElement;
 
-public class MajorityElementTests
+public class SolutionTests
 {
     [Fact]
     public void Case1()
     {
         var nums = new[] { 3, 2, 3 };
-        var target = new Solution();
+        var target = new LeetCodeTopInterview150.ArrayString.Easy.MajorityElement.Solution();
 
         const int expected = 3;
         var actual = target.MajorityElement(nums);
@@ -20,7 +20,7 @@ public class MajorityElementTests
     public void Case2()
     {
         var nums = new[] { 2, 2, 1, 1, 1, 2, 2 };
-        var target = new Solution();
+        var target = new LeetCodeTopInterview150.ArrayString.Easy.MajorityElement.Solution();
 
         const int expected = 2;
         var actual = target.MajorityElement(nums);

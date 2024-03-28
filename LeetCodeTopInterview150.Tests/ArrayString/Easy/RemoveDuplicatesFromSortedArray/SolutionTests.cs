@@ -2,7 +2,7 @@ using LeetCodeTopInterview150.ArrayString.Easy.RemoveDuplicatesFromSortedArray;
 
 namespace LeetCodeTopInterview150.Tests.ArrayString.Easy.RemoveDuplicatesFromSortedArray;
 
-public class RemoveDuplicatesFromSortedArrayTests
+public class SolutionTests
 {
     [Fact]
     public void Case1()
