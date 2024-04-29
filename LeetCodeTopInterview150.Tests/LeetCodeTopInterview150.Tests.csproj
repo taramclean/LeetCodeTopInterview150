@@ -21,7 +21,21 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\LeetCodeTopInterview150\LeetCodeTopInterview150.csproj" />
+      <Folder Include="ArrayString\Easy\BestTimeToBuyAndSellStock\" />
+      <Folder Include="ArrayString\Easy\FindTheIndexOfTheFirstOccurrenceInAString%3b\" />
+      <Folder Include="ArrayString\Easy\LengthOfLastWord\" />
+      <Folder Include="ArrayString\Easy\LongestCommonPrefix\" />
+      <Folder Include="ArrayString\Easy\MajorityElement\" />
+      <Folder Include="ArrayString\Easy\MergeSortedArray\" />
+      <Folder Include="ArrayString\Easy\RemoveDuplicatesFromSortedArray\" />
+      <Folder Include="ArrayString\Easy\RemoveElement\" />
+      <Folder Include="ArrayString\Easy\RomanToInteger\" />
+      <Folder Include="ArrayString\Medium\HIndex\" />
+      <Folder Include="ArrayString\Medium\InsertDeleteGetRandom\" />
+      <Folder Include="ArrayString\Medium\JumpGame2\" />
+      <Folder Include="ArrayString\Medium\JumpGame\" />
+      <Folder Include="ArrayString\Medium\RemoveDuplicatesFromSortedArrayII\" />
+      <Folder Include="ArrayString\Medium\RotateArray\" />
     </ItemGroup>
 
 </Project>
